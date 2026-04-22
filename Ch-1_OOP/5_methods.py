@@ -18,7 +18,8 @@ class MyClass:
     def dummy():
         print("This is a dummy method")
 
-# obj = MyClass()
+
+# obj = MyClass() new
 # print(obj.my_var) # 100
 # obj._change_value(200)
 # print(obj.my_var) # 200
